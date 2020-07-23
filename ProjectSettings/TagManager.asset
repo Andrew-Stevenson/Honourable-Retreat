@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Wall
+  - Interactables
+  - Exit
+  - Player
+  - Danger
+  - Enemy
+  - Door
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2106474987
+    locked: 0
+  - name: Floor
+    uniqueID: 2929289273
+    locked: 0
+  - name: Interactables
+    uniqueID: 739702715
+    locked: 0
+  - name: Enemy
+    uniqueID: 3640941651
+    locked: 0
+  - name: Player
+    uniqueID: 3436633475
+    locked: 0
+  - name: MoveOverlay
+    uniqueID: 520740005
+    locked: 0
+  - name: HUD
+    uniqueID: 152557233
+    locked: 0
